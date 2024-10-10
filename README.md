@@ -1,4 +1,4 @@
-# Python Practice Tasks
+# Python Practice Tasks - MISiS Data Science Course
 
 Welcome to the Python Practice Tasks repository! This collection of exercises is designed to help you improve your Python programming skills, ranging from beginner to advanced levels. Each task focuses on different aspects of Python, including basic syntax, data structures, algorithms, and object-oriented programming.
 
@@ -97,4 +97,5 @@ Welcome to the Python Practice Tasks repository! This collection of exercises is
 These tasks are designed to progressively challenge you as you learn Python, covering fundamental concepts as well as advanced topics like OOP, algorithms, web scraping, APIs, and more! Feel free to work through them at your own pace or pick specific areas where you want to focus your learning efforts!
 
 Happy coding! 
+by 
 Jamoni "MISiS"
